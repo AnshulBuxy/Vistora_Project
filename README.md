@@ -249,6 +249,6 @@ CREATE OR REPLACE TABLE ONLINE_RETAIL_DEMO.DEMO_SCHEMA.RETAIL_FEATURE_STORE (
 Engineering Student | ML Enthusiast
 
 ```bash
-Email: anshul.buxy@example.com
+Email: anshubuxy12345@gmail.com
 GitHub: github.com/anshulbuxy
 ```
