@@ -14,8 +14,8 @@ The purpose of this project is to extract, transform, and store customer-level f
 ```
 Vistora_Project/
 ├── eda_retail_transactions.ipynb     # EDA notebook
-├── feature_store_sql_steps.sql       # SQL feature engineering scripts (step-by-step)
-├── retail_data.csv                   # Raw retail dataset (from UCI ML Repository)
+├── RETAIL_FEATURE_STORE.csv          # featured Data New table
+├── retail_data.zip                   # Raw retail dataset (from UCI ML Repository)
 ├── project_explanation.pdf           # Project explanation PDF
 └── README.md                         # This file
 ```
