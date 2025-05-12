@@ -24,9 +24,9 @@ Vistora_Project/
 
 ## 🔗 Useful Links
 
-* 📽️ [Project Walkthrough Video](https://your-video-link.com)
+* 📽️ [Project Walkthrough Video](https://drive.google.com/drive/folders/1ycokaBvyKCg3j2ciIJspjxDMTGYT8rPv?usp=drive_link)
 * 📄 [Dataset Source (UCI Online Retail)](https://archive.ics.uci.edu/ml/datasets/online+retail)
-* 📘 [Project Explanation PDF](./project_explanation.pdf)
+* 📘 [SQL_Codes](https://app.snowflake.com/trgayrn/ny30645/w43gxBMCQ8RB/query)
 
 ---
 
